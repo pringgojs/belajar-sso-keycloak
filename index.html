@@ -13,7 +13,8 @@
         } else {
           displayLoggedOff();
         }
-      }).error(function () {
+      }).error(function (e) {
+        console.log("asd");
         alert('failed to initialize');
       });
     </script>

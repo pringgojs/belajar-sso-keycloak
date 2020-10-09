@@ -1,8 +1,8 @@
 {
-  "realm": "testRealm",
-  "auth-server-url": "http://localhost:8180/auth",
+  "realm": "demo",
+  "auth-server-url": "http://127.0.0.1:8080/auth",
   "ssl-required": "none",
-  "resource": "keycloaktest",
+  "resource": "vue-test-app-keycloak",
   "public-client": true,
   "use-resource-role-mappings": true
 }
