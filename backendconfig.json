@@ -1,4 +1,4 @@
 {
-    "backend-usrpwd": "vue-test-app-keycloak:259b1735-542e-4311-9094-c69635a3a1e7",
-    "realm":"demo"
+    "backend-usrpwd": "my-demo-client:065eca7c-977e-49dd-80af-72592d50dff0",
+    "realm":"myrealm"
 }
