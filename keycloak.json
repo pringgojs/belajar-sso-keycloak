@@ -4,5 +4,7 @@
   "ssl-required": "none",
   "resource": "vue-test-app-keycloak",
   "public-client": true,
-  "use-resource-role-mappings": true
+  "use-resource-role-mappings": true,
+  "enable-cors": true,
+  "bearer-only" : true
 }
